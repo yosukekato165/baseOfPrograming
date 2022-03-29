@@ -8,3 +8,5 @@ let test1 = jikan 11 = "am"
 let test2 = jikan 0 = "am"
 let test3 = jikan 12 = "pm"
 let test4 = jikan 22 = "pm"
+
+let jikan23 = jikan 23
